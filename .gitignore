@@ -1,0 +1,23 @@
+
+#IDE & editor files
+.idea/             # PyCharm/IntelliJ
+.vscode/           # VS Code
+*.iml              # Module file
+
+#logs
+*.log
+
+#Byte compiled file
+pycache/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+.fragrance_env/
+.conda/
+
+#OS files
+Thumbs.db
+Desktop.ini
